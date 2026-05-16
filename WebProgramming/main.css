@@ -1,0 +1,99 @@
+*{
+    font-family: ;
+    list-style: ;
+    padding: ;
+}
+
+body {
+    background: ;
+}
+
+/* ================================================================== */
+
+.skills{
+    width: ;
+    margin: ;
+    color: ;
+}
+
+.skills li{
+    margin: ;
+}
+
+/* ================================================================== */
+
+.bar {
+    background: ;
+    display: ;
+    height: ;
+    border: ;
+    border-radius: ;
+    overflow: ;
+    box-shadow: ;
+}
+
+.bar span {
+    height: ;
+    float: ;
+    background: ;
+}
+
+/* ================================================================== */
+
+.html{
+    width: /*width percentage*/;
+    animation: /* duration 's' */;
+}
+
+.java{
+    width: /*width percentage*/;
+    animation: /* duration 's' */;
+}
+
+.react-native{
+    width: /*width percentage*/;
+    animation: /* duration 's' */;
+}
+/**/
+.css{
+    width: /*width percentage*/;
+    animation: /* duration 's' */;
+}
+
+/* ================================================================== */
+
+@keyframes html {
+    0%{
+        /*width percentage*/
+    }
+    100%{
+        /*width percentage*/
+    }
+}
+
+@keyframes java {
+    0%{
+        /*width percentage*/
+    }
+    100%{
+        /*width percentage*/
+    }
+}
+
+@keyframes react-native {
+    0%{
+        /*width percentage*/
+    }
+    100%{
+        /*width percentage*/
+    }
+}
+
+@keyframes css {
+    0%{
+        /*width percentage*/
+    }
+    100%{
+        /*width percentage*/
+    }
+}
